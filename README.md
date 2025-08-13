@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Amanda Gomes Diniz
+# 👋 Olá! Eu sou a Amanda Diniz
 
 💻 **Quality Assurance (QA)** | 📚 Estudando **Automação de Testes**  
 Apaixonada por tecnologia, qualidade de software e aprendizado contínuo 🚀
